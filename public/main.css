@@ -1,0 +1,15 @@
+body {
+	background-color: #fff8ee;
+}
+.map-link {
+	color: #6d4213;
+	padding-right: 10px;
+}
+
+.column {
+	padding: 4px 0px;
+}
+
+img.thumbs {
+	max-width: 100%;
+}
